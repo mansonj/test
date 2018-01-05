@@ -1,2 +1,2 @@
-# test
+# Test
 Initial GitHub setup testing
